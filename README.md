@@ -1,6 +1,3 @@
-# python_ecommerce_banking_project
-A complete command-line sales and banking application built with Python and PostgreSQL.
-
 # Python E-Commerce & Banking CLI Application
 
 A project simulating a full e-commerce workflow (`main.py`) and a standalone banking system (`banking_main.py`), which are integrated to handle real-time payments and refunds.
